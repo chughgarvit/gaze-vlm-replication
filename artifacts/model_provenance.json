@@ -1,0 +1,156 @@
+[
+  {
+    "role": "student",
+    "repo": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+    "revision": "7b375e1b73b11138ff12fe22c8f2822d8fe03467",
+    "files": [
+      {
+        "name": "added_tokens.json",
+        "bytes": 4739,
+        "sha256": "74135b8664b56088c0006f1c8e848d79a8eba003411f72ebf1dc2ee96227be3a"
+      },
+      {
+        "name": "chat_template.json",
+        "bytes": 430,
+        "sha256": "b585e3598909a5687f9f9d738d35223724dedef256b9b274e1cbfb32b13c74bf"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3767,
+        "sha256": "ea6bc1237e96247f6258de3e202e2e62b93d6f386dc47e7b36b5588bf3a15e17"
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 136,
+        "sha256": "34835060c9f0f74d1acb456cc72ca32746d3843d9eb5f578f9cbffac1d2eb840"
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 466391,
+        "sha256": "0b54e8aa4e53d5383e2e4bc635a56b43f9647f7b13832d5d9ecd8f82dac4f510"
+      },
+      {
+        "name": "model.safetensors",
+        "bytes": 2029990624,
+        "sha256": "b9bfd456c9472c0acd5719d6e514c4b859891af205ee1a736552fd3497b8b0c3"
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 599,
+        "sha256": "149e315d9410368e5491455bb06e0f763426e9e56cca731c13b24404a29b6374"
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 67,
+        "sha256": "f3ad45028447b3562b4752be0d5916d6806c1ef589091a469608dcf0faa1737c"
+      },
+      {
+        "name": "README.md",
+        "bytes": 10865,
+        "sha256": "afc4bf5f519438b221a84292979a9eac3de4b9726e5baaa82033c55f59f9f7a5"
+      },
+      {
+        "name": "special_tokens_map.json",
+        "bytes": 868,
+        "sha256": "2dfea2a426162316ff1567c82bc6d36d9690cd9f90455f075c77daca78b45c60"
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 3548256,
+        "sha256": "5ece781dc8d2b2f3e2f289ca0ae50b17cfc27dd27bfe7971bb8241e0b964331a"
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 28626,
+        "sha256": "dd9ce2ab89a3dd881bd9378f1a79b943a064b9275a7e1706d5b7b47b68977913"
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 800662,
+        "sha256": "82b84012e3add4d01d12ba14442026e49b8cbbaead1f79ecf3d919784f82dc79"
+      }
+    ]
+  },
+  {
+    "role": "teacher",
+    "repo": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "revision": "482adb537c021c86670beed01cd58990d01e72e4",
+    "files": [
+      {
+        "name": "added_tokens.json",
+        "bytes": 4739,
+        "sha256": "74135b8664b56088c0006f1c8e848d79a8eba003411f72ebf1dc2ee96227be3a"
+      },
+      {
+        "name": "chat_template.json",
+        "bytes": 430,
+        "sha256": "b585e3598909a5687f9f9d738d35223724dedef256b9b274e1cbfb32b13c74bf"
+      },
+      {
+        "name": "config.json",
+        "bytes": 3642,
+        "sha256": "ec1f7e45deeafba7601f8dd0b6ca9ba75985dffc2f053e82341d12d06e2d9d46"
+      },
+      {
+        "name": "generation_config.json",
+        "bytes": 136,
+        "sha256": "34835060c9f0f74d1acb456cc72ca32746d3843d9eb5f578f9cbffac1d2eb840"
+      },
+      {
+        "name": "merges.txt",
+        "bytes": 466391,
+        "sha256": "0b54e8aa4e53d5383e2e4bc635a56b43f9647f7b13832d5d9ecd8f82dac4f510"
+      },
+      {
+        "name": "model-00001-of-00002.safetensors",
+        "bytes": 4959390584,
+        "sha256": "7c88a90e78f567460b2369a0369cc4dafbfda5607c9cb090b30fa4437b0282f2"
+      },
+      {
+        "name": "model-00002-of-00002.safetensors",
+        "bytes": 4027833472,
+        "sha256": "cf3d0958a8240f71054a6812038f2a6bfbe2e5124573a3b363f6b120c9a52657"
+      },
+      {
+        "name": "model.safetensors.index.json",
+        "bytes": 63881,
+        "sha256": "d7c4b7a36f51bc15755cb11938c76f66be56e7c0d2bf3606335a8f77f90a551d"
+      },
+      {
+        "name": "preprocessor_config.json",
+        "bytes": 599,
+        "sha256": "70d935393e28a5b77b8f46cbd3e3cb74a336e4814bd43983858215bd0be388e7"
+      },
+      {
+        "name": "processor_config.json",
+        "bytes": 67,
+        "sha256": "55fb18f99dcce2694a011d46addf50a8114e6458d1847f6da9a0af22c6695a95"
+      },
+      {
+        "name": "README.md",
+        "bytes": 11437,
+        "sha256": "8e46e92a3a40643b85a6df905b1a2014bcb7a01daaf6566588c89a95c5c6e700"
+      },
+      {
+        "name": "special_tokens_map.json",
+        "bytes": 868,
+        "sha256": "2dfea2a426162316ff1567c82bc6d36d9690cd9f90455f075c77daca78b45c60"
+      },
+      {
+        "name": "tokenizer.json",
+        "bytes": 3548256,
+        "sha256": "5ece781dc8d2b2f3e2f289ca0ae50b17cfc27dd27bfe7971bb8241e0b964331a"
+      },
+      {
+        "name": "tokenizer_config.json",
+        "bytes": 28627,
+        "sha256": "30d7854334f3f96e9dc8e5210777ba030d55257de0d9c9b5ce65387f2ab73773"
+      },
+      {
+        "name": "vocab.json",
+        "bytes": 800662,
+        "sha256": "82b84012e3add4d01d12ba14442026e49b8cbbaead1f79ecf3d919784f82dc79"
+      }
+    ]
+  }
+]

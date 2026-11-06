@@ -1,0 +1,10 @@
+data/
+study_data/
+HoloAssist/
+*.tar
+*.zip
+*.mp4
+.venv/
+__pycache__/
+.cache/
+
